@@ -6,7 +6,7 @@
 We're BLOB, built by friends who wanna make live production awesome for the esports & streaming community! And don't worry if you're new to this – we've designed BLOB with a super user-friendly interface, making it easy for anyone, from total beginners to seasoned pros! :D
 
 BLOB offers **free, slick, and fully customizable overlays/HUDs** for creators, teams and organisers.  Stand out with our **unique, customizable animations** ✨ – seriously, they're cool! Plus, simplify your workflow with:
-‎
+
 * 🎞 **HUDs & Overlays:** BLOB provides free HUDs, and scene overlays such as game MVPs and team lineups in our other packages
 * ✏️ **HUD Editor:** Customise your HUD and see your changes live
 * 🔄 **Data Sharing:** Sync and share game data across different PCs easily
