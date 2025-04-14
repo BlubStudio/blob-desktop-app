@@ -7,7 +7,7 @@
 
 &nbsp; 
 
-* 🎞 **HUDs & Overlays:** BLOB provides free HUDs, and scene overlays such as game MVPs and team lineups in our other packages
+* 🎞 **HUDs & Overlays:** BLOB provides free HUDs, and scene overlays such as game MVPs and team lineups for our subscribers
 
 * ✏️ **HUD Editor:** Customise your HUD and see your changes live
 
