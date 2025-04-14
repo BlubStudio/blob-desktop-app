@@ -4,7 +4,7 @@
 👋 Hey! If you're looking for a **free CS2 and Rocket League HUD** that look nice, you're in the right place 🎯 
 
 We're BLOB, built by friends who wanna make live production awesome for the esports & streaming community! And don't worry if you're new to this – we've designed BLOB with a super user-friendly interface, making it easy for anyone, from total beginners to seasoned pros! :D
-‎
+
 BLOB offers **free, slick, and fully customizable overlays/HUDs** for creators, teams and organisers.  Stand out with our **unique, customizable animations** ✨ – seriously, they're cool! Plus, simplify your workflow with:
 ‎
 * 🎞 **HUDs & Overlays:** BLOB provides free HUDs, and scene overlays such as game MVPs and team lineups in our other packages
@@ -18,7 +18,7 @@ We're all about making high-quality streams engaging and accessible, whether you
 ‎
 Give BLOB a spin and level up your broadcast! 🚀
 ---
-## 🚀 Getting Started with BLOB:
+## 🚀 Installing BLOB:
 
 Ready to give us a go? It's super simple:
 ‎
