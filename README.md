@@ -1,32 +1,37 @@
 ![BLOB Desktop Application](assets/githubLogo.png?raw=true)
 # BLOB Desktop Application
 
-👋 Hey! If you're looking for a **free CS2 and Rocket League HUD** that look nice, you're in the right place 🎯 
+👋 Hey! If you're looking for a **free customizable CS2 and Rocket League HUD** that look nice, you're in the right place 🎯 
+
+BLOB offers **free, slick, and fully customizable HUDs & Overlays** for creators, teams and organisers.  Stand out with our **unique, customizable animations** ✨ – seriously, they're cool! Plus, simplify your workflow with:
 
 &nbsp; 
-We're BLOB, built by friends who wanna make live production awesome for the esports & streaming community! Plus, we've made BLOB incredibly user-friendly – perfect for newbies and pros alike!🦖
-
-&nbsp; 
-BLOB offers **free, slick, and fully customizable overlays/HUDs** for creators, teams and organisers.  Stand out with our **unique, customizable animations** ✨ – seriously, they're cool! Plus, simplify your workflow with:
 
 * 🎞 **HUDs & Overlays:** BLOB provides free HUDs, and scene overlays such as game MVPs and team lineups in our other packages
+
 * ✏️ **HUD Editor:** Customise your HUD and see your changes live
+
 * 🔄 **Data Sharing:** Sync and share game data across different PCs easily
+
 * 🤝 **Live Collaboration:** Work together with your production team in real-time
-‎
-We're all about making high-quality streams engaging and accessible, whether you're a solo streamer or a full crew.
-‎
+
+‎&nbsp; 
+
+We're all about making high-quality streams engaging and accessible, whether you're a solo streamer or a full crew :]
+
 🛠️ **Coming Soon:** Our custom real-time rendering system is under construction  (and more!)
-‎
-Give BLOB a spin and level up your broadcast! 🚀
+
 ---
-## 🚀 Installing BLOB:
-
+# 🚀 Installing BLOB:
 Ready to give us a go? It's super simple:
-‎
-1.  **Create your account:** Head over to [https://app.blob.productions/](https://app.blob.productions/) to sign up. (This is your dashboard/control panel 🖥️)
 
-2.  **Grab the Desktop App:** Download the latest release from our GitHub releases page: [https://github.com/BlubStudio/blob-desktop-app/releases](https://github.com/BlubStudio/blob-desktop-app/releases). (This connects the game data to our dashboard 🔗)
+&nbsp; 
+
+1.  **Create your account:** Signup at [https://app.blob.productions/](https://app.blob.productions/) (This is your dashboard/control panel 🖥️)
+
+2.  **Install Desktop App:** Download the latest release from [https://github.com/BlubStudio/blob-desktop-app/releases](https://github.com/BlubStudio/blob-desktop-app/releases)  (This connects the game data to your dashboard 🔗)
+
+&nbsp; 
 
 That's it! Once you've done these two steps, you're ready to start customizing your overlays and HUDs. Enjoy! 😊 
 
