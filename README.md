@@ -3,7 +3,7 @@
 
 👋 Hey! If you're looking for a **free customizable CS2 and Rocket League HUD** that look nice, you're in the right place 🎯 
 
-BLOB offers **free, slick, and fully customizable HUDs & Overlays** for creators, teams and organisers.  Stand out with our **unique, customizable animations** ✨ – seriously, they're cool! Plus, simplify your workflow with:
+[BLOB](https://blob.productions) offers **free, slick, and fully customizable HUDs & Overlays** for creators, teams and organisers.  Stand out with our **unique, customizable animations** ✨ – seriously, they're cool! Plus, simplify your workflow with:
 
 &nbsp; 
 
