@@ -1,5 +1,5 @@
 ![BLOB Desktop Application](assets/githubLogo.png?raw=true)
-# BLOB Desktop Application
+# Custom CS2 HUD
 
 👋 Hey! If you're looking for a **free customizable CS2 and Rocket League HUD** that look nice, you're in the right place 🎯 
 
