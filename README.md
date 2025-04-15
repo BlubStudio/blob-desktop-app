@@ -32,8 +32,10 @@ Ready to give us a go? It's super simple:
 
 2.  **Install Desktop App:** Download the latest release from [https://github.com/BlubStudio/blob-desktop-app/releases](https://github.com/BlubStudio/blob-desktop-app/releases)  (This connects the game data to your dashboard 🔗)
 
+3. **Stream the HUD:** We recommend copying the overlay link into your browser source on your streaming software to get the most accurate design display of the HUD, but you can also stream it with the embedded popout from our desktop app! 
+
 &nbsp; 
 
-That's it! Once you've done these two steps, you're ready to start customizing your overlays and HUDs. Enjoy! 😊 
+That's it! Once you've done these steps, you're ready to start customizing your overlays and HUDs. Enjoy! 😊 
 
 (Heres our discord if you need help: https://discord.gg/nVFyv7YAzZ) 
