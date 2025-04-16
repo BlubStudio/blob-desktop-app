@@ -32,7 +32,13 @@ Ready to give us a go? It's super simple:
 
 2.  **Install Desktop App:** Download the latest release from [https://github.com/BlubStudio/blob-desktop-app/releases](https://github.com/BlubStudio/blob-desktop-app/releases)  (This connects the game data to your dashboard 🔗)
 
-3. **Stream the HUD:** We recommend copying the overlay link into your browser source on your streaming software to get the most accurate design display of the HUD, but you can also stream it with the embedded popout from our desktop app! 
+3. **Open CS2:** If this is your first time installing, you __MUST__ open CS2 __AFTER__ opening Blob Desktop App
+
+4. **Start Server:** In Overview on the dashboard/control panel, click "Start Server"
+
+5. **Server & HUD Code:** Click "COPY" in the Overview page
+
+6. **Stream the HUD:** We recommend copying the overlay link into your browser source on your streaming software to get the most accurate design display of the HUD, but you can also stream it with the embedded popout from our desktop app! 
 
 &nbsp; 
 
